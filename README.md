@@ -1,6 +1,6 @@
 # CounterHomework1.0
 
-Assignment One
+Assignment two
 <br>
 1. C<br>
 2. C<br>
